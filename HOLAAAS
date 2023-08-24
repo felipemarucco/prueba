@@ -1,7 +1,7 @@
-NOTA1=int((input("ingrese nota"))
-NOTA2=int(input("ingrese nota"))
-promedio=(nota1+nota2)/2
-if promedio>=6
+NOTA01=int((input("ingrese nota"))
+NOTA02=int(input("ingrese nota"))
+promedio2=(nota1+nota2)/2
+if promedio2>=6
    print ("aprovado")
    print (promedio)
 else:
