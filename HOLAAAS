@@ -1,4 +1,8 @@
-"hola mundo"
-SOY FELI
-Soy Cristian 
-soy Virinia
+NOTA1=int((input("ingrese nota"))
+NOTA2=int(input("ingrese nota"))
+promedio=(nota1+nota2)/2
+if promedio>=6
+   print ("aprovado")
+   print (promedio)
+else:
+    print ("desaprovado")
